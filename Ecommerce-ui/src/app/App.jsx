@@ -9,6 +9,7 @@ function App() {
       <Header/>
       <main style={{ minHeight: "80vh", padding: "1rem" }}>
         <AppRoutes />
+        
       </main>
       <Footer />
     </div>

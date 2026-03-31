@@ -1,0 +1,8 @@
+[{
+    "id":1,
+    "name":"Gerbera Daisy",
+    "description":"A gerbera daisy is a flowering plant of the genus Gerbera, in the family Asteraceae, or the flower it bears. There are over three hundred species and tens of thousands of cultivars.",
+    "price":10.99,
+    "image":"src/assets/images/gerbera.jpg"
+  }
+]
